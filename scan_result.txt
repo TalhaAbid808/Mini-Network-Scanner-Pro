@@ -1,0 +1,4 @@
+port22 is open 
+port80 is open 
+port22 is open ssh 
+port80 is open http 
